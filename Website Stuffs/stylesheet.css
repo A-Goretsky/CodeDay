@@ -1,0 +1,19 @@
+body {
+    background-image: url("greyzz_@2X.png");
+}
+
+h1 {
+    margin-top: +100px;   
+
+    font-family: Gotham Rounded;
+    font-size: 50pt;
+    text-align: center;
+}
+        
+p {
+    font-size: 16pt;
+    margin-top: +100px;
+
+    text-align: center;
+    font-family: Gotham Rounded;
+}
