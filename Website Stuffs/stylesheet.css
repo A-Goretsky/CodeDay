@@ -1,5 +1,6 @@
 body {
-    background-image: url("greyzz_@2X.png");
+    background-image: url("FullSizeRender.jpg");
+    background-position: center;
 }
 
 h1 {
@@ -13,7 +14,16 @@ h1 {
 p {
     font-size: 16pt;
     margin-top: +100px;
-
+    
     text-align: center;
     font-family: Gotham Rounded;
+}
+
+.connectToChat {
+    text-align: center;
+    margin-top: +100px;
+}
+
+.buttonWidth {
+    width: 200;
 }
