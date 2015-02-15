@@ -1,0 +1,31 @@
+
+h1 {
+    font-family: Gotham Rounded;
+}
+
+div {
+    font-family: Gotham Rounded;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+p {
+    font-family: Gotham Rounded;
+}
+
+h2 {
+    font-family: Gotham Rounded;
+}
+
+html {
+    background-color: #ECF0F1;
+}
+
+ul {
+    font-family: Gotham Rounded;
+}
